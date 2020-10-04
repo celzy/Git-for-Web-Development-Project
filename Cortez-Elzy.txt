@@ -119,7 +119,7 @@ then start a pull request, after changing base to your forked repo someone will 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-inline elements are elements that stay on a line with other elements while block level elements take an entire space for themselves.
+
     2. What happens when an element is positioned absolutely? 
 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
